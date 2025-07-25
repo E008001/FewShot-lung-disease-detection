@@ -1,5 +1,5 @@
 # FewShot-lung-disease-detection
-# Lung Disease Detection using Deep Learning 🫁🧠
+# Lung Disease Detection using Deep Learning 
 
 This project is part of a research proposal aiming to develop an AI-based system for detecting pulmonary diseases from chest X-ray images using deep learning techniques.
 
@@ -7,7 +7,7 @@ This project is part of a research proposal aiming to develop an AI-based system
 
 To design and implement a lightweight yet accurate convolutional neural network (CNN) model that can detect multiple thoracic diseases using chest radiographs, especially under low-data conditions (few-shot learning).
 
-## 📂 Project Structure
+## 📂  Structure
 
 - `notebooks/`: Exploratory data analysis and training notebooks.
 - `src/`: Python scripts for training, evaluation, and utility functions.
@@ -25,10 +25,10 @@ To design and implement a lightweight yet accurate convolutional neural network 
 ## 📊 Dataset
 
 We use publicly available datasets such as:
-- [NIH ChestX-ray14](https://nihcc.app.box.com/v/ChestXray-NIHCC)
+
 - [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/)
 
-## ✍️ Proposal Context
+## ✍️ Context
 
 This project is aligned with a research proposal titled:  
 **"Few-shot Learning for Automated Chest Disease Diagnosis using Teacher-Student Frameworks"**
